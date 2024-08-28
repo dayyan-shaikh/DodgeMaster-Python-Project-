@@ -32,7 +32,7 @@ enemy_list = [enemy_pos]
 
 speed = 10
 
-clock = pygame.time.Clock()
+# clock = pygame.time.Clock()
 
 score = 0
 font = pygame.font.SysFont("monospace", 40)
